@@ -1,0 +1,24 @@
+{
+  "name": "connect-mredis",
+  "description": "Redis session store for Connect",
+  "version": "1.0.6",
+  "author": {
+    "name": "dead_horse",
+    "email": "heyiyu.deadhorse@gmail.com"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "mredis": ">= 1.1.0"
+  },
+  "devDependencies": {
+    "connect": ">=1.4.x"
+  },
+  "engines": {
+    "node": ">= 0.1.98"
+  },
+  "_id": "connect-mredis@1.0.6",
+  "dist": {
+    "shasum": "45352c25c299fe5e42bb62b5bab3d8a08bd8edbd"
+  },
+  "_from": "connect-mredis@=1.0.6"
+}
