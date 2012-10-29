@@ -1,14 +1,14 @@
 {
   "name": "connect-mredis",
   "description": "Redis session store for Connect",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": {
     "name": "dead_horse",
     "email": "heyiyu.deadhorse@gmail.com"
   },
   "main": "./index.js",
   "dependencies": {
-    "mredis": ">= 1.1.3"
+    "mredis": ">= 1.1.4"
   },
   "devDependencies": {
     "connect": ">=1.4.x"
