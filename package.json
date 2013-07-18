@@ -1,7 +1,7 @@
 {
   "name": "connect-mredis",
   "description": "Redis session store for Connect",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "author": {
     "name": "dead_horse",
     "email": "heyiyu.deadhorse@gmail.com"
